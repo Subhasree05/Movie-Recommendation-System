@@ -78,4 +78,5 @@ streamlit run app.py
 Open the URL shown in your terminal to access the interactive app.
 
 ## Screenshots
-<img width="947" height="402" alt="image" src="https://github.com/user-attachments/assets/fffaf6b4-8501-42ce-ae08-4ade75032a22" />
+<img width="947" height="402" alt="Screenshot 2025-09-18 173909" src="https://github.com/user-attachments/assets/8af93b09-3c9e-4759-b2d2-abbb7bddcfa3" />
+
